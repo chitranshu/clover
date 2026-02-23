@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Papers With Code CIFAR-10 leaderboard: https://paperswithcode.com/sota/image-classification-on-cifar-10
 
 ## After Month 5
-Continue with Month 6 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): computer vision core and transfer learning.
+Continue with Month 6 in [001-learning-path.md](001-learning-path.md): computer vision core and transfer learning.

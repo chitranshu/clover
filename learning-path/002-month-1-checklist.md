@@ -247,4 +247,4 @@ _Last updated: 23 Feb 2026_
   - StatQuest (clear stats/ML intuition): https://www.youtube.com/@statquest
 
 ## After Month 1
-Move to [learning-path/001-learning-path.md](learning-path/001-learning-path.md) Month 2 and start classical machine learning (scikit-learn).
+Move to [001-learning-path.md](001-learning-path.md) Month 2 and start classical machine learning (scikit-learn).

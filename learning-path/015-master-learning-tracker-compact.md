@@ -3,18 +3,18 @@
 _Last updated: 23 Feb 2026_
 
 ## Annual Progress (12 Months)
-- [ ] M01 — [learning-path/002-month-1-checklist.md](learning-path/002-month-1-checklist.md)
-- [ ] M02 — [learning-path/003-month-2-checklist.md](learning-path/003-month-2-checklist.md)
-- [ ] M03 — [learning-path/004-month-3-checklist.md](learning-path/004-month-3-checklist.md)
-- [ ] M04 — [learning-path/005-month-4-checklist.md](learning-path/005-month-4-checklist.md)
-- [ ] M05 — [learning-path/006-month-5-checklist.md](learning-path/006-month-5-checklist.md)
-- [ ] M06 — [learning-path/007-month-6-checklist.md](learning-path/007-month-6-checklist.md)
-- [ ] M07 — [learning-path/008-month-7-checklist.md](learning-path/008-month-7-checklist.md)
-- [ ] M08 — [learning-path/009-month-8-checklist.md](learning-path/009-month-8-checklist.md)
-- [ ] M09 — [learning-path/010-month-9-checklist.md](learning-path/010-month-9-checklist.md)
-- [ ] M10 — [learning-path/011-month-10-checklist.md](learning-path/011-month-10-checklist.md)
-- [ ] M11 — [learning-path/012-month-11-checklist.md](learning-path/012-month-11-checklist.md)
-- [ ] M12 — [learning-path/013-month-12-checklist.md](learning-path/013-month-12-checklist.md)
+- [ ] M01 — [002-month-1-checklist.md](002-month-1-checklist.md)
+- [ ] M02 — [003-month-2-checklist.md](003-month-2-checklist.md)
+- [ ] M03 — [004-month-3-checklist.md](004-month-3-checklist.md)
+- [ ] M04 — [005-month-4-checklist.md](005-month-4-checklist.md)
+- [ ] M05 — [006-month-5-checklist.md](006-month-5-checklist.md)
+- [ ] M06 — [007-month-6-checklist.md](007-month-6-checklist.md)
+- [ ] M07 — [008-month-7-checklist.md](008-month-7-checklist.md)
+- [ ] M08 — [009-month-8-checklist.md](009-month-8-checklist.md)
+- [ ] M09 — [010-month-9-checklist.md](010-month-9-checklist.md)
+- [ ] M10 — [011-month-10-checklist.md](011-month-10-checklist.md)
+- [ ] M11 — [012-month-11-checklist.md](012-month-11-checklist.md)
+- [ ] M12 — [013-month-12-checklist.md](013-month-12-checklist.md)
 
 ## Milestones
 - [ ] Foundation ready (M1)
@@ -53,5 +53,5 @@ _Last updated: 23 Feb 2026_
 - M12:
 
 ## Key Links
-- Roadmap: [learning-path/001-learning-path.md](learning-path/001-learning-path.md)
-- Full tracker: [learning-path/014-master-learning-tracker.md](learning-path/014-master-learning-tracker.md)
+- Roadmap: [001-learning-path.md](001-learning-path.md)
+- Full tracker: [014-master-learning-tracker.md](014-master-learning-tracker.md)
