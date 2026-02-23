@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - PyTorch examples repo: https://github.com/pytorch/examples
 
 ## After Month 4
-Continue with Month 5 in [documents/001-learning-path.md](documents/001-learning-path.md): deep learning training mastery and optimization.
+Continue with Month 5 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): deep learning training mastery and optimization.

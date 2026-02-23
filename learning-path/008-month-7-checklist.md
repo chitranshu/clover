@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Kaggle NLP datasets/notebooks: https://www.kaggle.com/datasets?tags=13303-NLP
 
 ## After Month 7
-Continue with Month 8 in [documents/001-learning-path.md](documents/001-learning-path.md): transformers/LLMs, prompting, and RAG basics.
+Continue with Month 8 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): transformers/LLMs, prompting, and RAG basics.

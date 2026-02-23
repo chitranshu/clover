@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Gradio docs: https://www.gradio.app/docs
 
 ## After Month 8
-Continue with Month 9 in [documents/001-learning-path.md](documents/001-learning-path.md): generative AI beyond text (GAN/VAE/diffusion basics).
+Continue with Month 9 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): generative AI beyond text (GAN/VAE/diffusion basics).

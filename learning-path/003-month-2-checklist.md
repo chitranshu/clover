@@ -245,4 +245,4 @@ _Last updated: 23 Feb 2026_
   - Cookiecutter Data Science (project structure): https://cookiecutter-data-science.drivendata.org/
 
 ## After Month 2
-Move to Month 3 in [documents/001-learning-path.md](documents/001-learning-path.md) and focus on intermediate ML, feature engineering, and stronger experimentation discipline.
+Move to Month 3 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md) and focus on intermediate ML, feature engineering, and stronger experimentation discipline.

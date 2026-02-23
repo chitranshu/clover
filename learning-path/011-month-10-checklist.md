@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Gymnasium docs: https://gymnasium.farama.org/
 
 ## After Month 10
-Continue with Month 11 in [documents/001-learning-path.md](documents/001-learning-path.md): MLOps and production AI systems.
+Continue with Month 11 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): MLOps and production AI systems.

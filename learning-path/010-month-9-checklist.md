@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Weights & Biases reports/examples: https://wandb.ai/site/articles
 
 ## After Month 9
-Continue with Month 10 in [documents/001-learning-path.md](documents/001-learning-path.md): reinforcement learning fundamentals and agents.
+Continue with Month 10 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): reinforcement learning fundamentals and agents.

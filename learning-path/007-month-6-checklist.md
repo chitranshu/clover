@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - OpenCV docs: https://docs.opencv.org/
 
 ## After Month 6
-Continue with Month 7 in [documents/001-learning-path.md](documents/001-learning-path.md): NLP fundamentals and sequence modeling.
+Continue with Month 7 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): NLP fundamentals and sequence modeling.

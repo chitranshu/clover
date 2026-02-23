@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Great Expectations docs: https://docs.greatexpectations.io/
 
 ## After Month 11
-Continue with Month 12 in [documents/001-learning-path.md](documents/001-learning-path.md): final capstone, portfolio, and interview readiness.
+Continue with Month 12 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): final capstone, portfolio, and interview readiness.

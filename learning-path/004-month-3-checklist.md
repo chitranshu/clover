@@ -235,4 +235,4 @@ _Last updated: 23 Feb 2026_
   - Kaggle notebooks for reporting ideas: https://www.kaggle.com/code
 
 ## After Month 3
-Continue with Month 4 in [documents/001-learning-path.md](documents/001-learning-path.md): neural networks from scratch + PyTorch basics.
+Continue with Month 4 in [learning-path/001-learning-path.md](learning-path/001-learning-path.md): neural networks from scratch + PyTorch basics.
